@@ -39,12 +39,6 @@ curl http://localhost:3000/api/notes
 curl -X DELETE http://localhost:3000/api/notes/1
 ```
 
-## Testing
-
-```bash
-./test-routes.sh
-```
-
 ## Tech Stack
 
 - Node.js 22
