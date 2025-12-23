@@ -1,6 +1,8 @@
 # Node DHI Demo - Note API
 
-A simple RESTful note-taking API built with Express.js and Docker.
+A simple RESTful note-taking API built with Express.js and Docker. This repository serves as a demo project for the blog post on [Improving Container Security with Docker Hardened Images](https://dev.to/pradumnasaraf/improving-container-security-with-docker-hardened-images-3bia).
+
+![Improving Container Security with Docker Hardened Images devto](https://github.com/user-attachments/assets/f9b02b0d-814c-46a5-b114-f0a5489fc54e)
 
 ## Quick Start
 
